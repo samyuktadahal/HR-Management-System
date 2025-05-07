@@ -9,4 +9,5 @@
   * WITH CTE(Common Table Expressions)
   * Creation of Trigger
   * Head Count Planning Logic
+  * Backed up file in .bak format
     
